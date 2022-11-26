@@ -1,5 +1,6 @@
 # 💫 About Me:
 Frontend Developer who addicted to experiment of new and demanding technologies<br>T Generalist not only focused on front end Developing but also backend, mobile and desktop also service based technologies.<br>please contact me on dito.devs@gmail.com for more intense communication.
+Visit www.github.com/ditotisi for work profile
 
 
 ## 🌐 Socials:
